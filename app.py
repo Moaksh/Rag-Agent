@@ -62,6 +62,9 @@ def main():
             else:
                 st.error("Please enter a query.")
 
+    st.markdown("<hr>", unsafe_allow_html=True)  # Adds a horizontal line
+    st.markdown("Made with ❤️ by Moaksh Kakkar", unsafe_allow_html=True)
+
 
 if __name__ == "__main__":
     main()
