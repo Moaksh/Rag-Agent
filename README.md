@@ -216,3 +216,10 @@ This command will start a Streamlit server, and you will see output indicating t
                 
                 return vector_results
 
+## Postscript
+
+This is my first attempt at building a Retrieval-Augmented Generation (RAG) model. Throughout this project, I have been learning and developing the system side by side. The process has been both challenging and rewarding, as I've had to delve into various concepts such as document indexing, vector databases, and language model integration.
+
+I appreciate the resources and community support that have guided me along the way. This project not only represents a technical achievement but also a significant step in my journey to understand and implement advanced AI techniques. I look forward to further refining this model and exploring its potential applications.
+
+
